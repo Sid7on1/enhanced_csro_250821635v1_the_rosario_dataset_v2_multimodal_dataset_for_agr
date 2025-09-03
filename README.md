@@ -1,0 +1,2 @@
+# enhanced_csro_250821635v1_the_rosario_dataset_v2_multimodal_dataset_for_agr
+AI-Generated Project: enhanced_cs.RO_2508.21635v1_The_Rosario_Dataset_v2_Multimodal_Dataset_for_Agr - Created by WATCHDOG Multi-Agent System
