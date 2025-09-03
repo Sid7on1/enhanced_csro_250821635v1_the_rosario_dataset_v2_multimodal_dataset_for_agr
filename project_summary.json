@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.RO_2508.21635v1_The_Rosario_Dataset_v2_Multimodal_Dataset_for_Agr",
+  "project_type": "computer_vision",
+  "completion_time": "2025-09-03T20:59:17.012624",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.RO_2508.21635v1_The_Rosario_Dataset_v2_Multimodal_Dataset_for_Agr"
+}
